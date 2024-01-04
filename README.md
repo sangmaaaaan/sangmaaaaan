@@ -32,7 +32,3 @@
 
 ###
 
-###
-
-<h2 align="left">I study Algorithm with Baekjoon</h2>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=matt1016)](https://solved.ac/matt1016)
