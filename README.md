@@ -15,6 +15,7 @@
 ###
 
 <h2 align="left">I code with</h2>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=matt1016)](https://solved.ac/matt1016/)
 
 ###
 
@@ -35,4 +36,4 @@
 ###
 
 <h2 align="left">I study Algorithm with Baekjoon</h2>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=matt1016)](https://solved.ac/matt1016)
+
