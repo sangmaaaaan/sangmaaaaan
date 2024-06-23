@@ -11,8 +11,8 @@
 ###
 
 <p align="left">(2022) DEPth, ’옛술의 전당’ 웹서비스 런칭<br>(2022) SW경진대회 '기업 재무제표분석 통한 주식정보추천 서비스 Accounter' 장려상<br>(2022) ADsP 자격증 취득<br>(2023) SW경진대회 '스터디 모집과 관리를 한번에 주는 플랫폼 Modoos'  장려상<br>(2023) SQLD 자격증 취득<br>(2023) UMC 3rd iOS 모임관리 '모임톡' 서비스 참여</p>
-<div>[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=matt1016)](https://solved.ac/matt1016)</div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=matt1016)](https://solved.ac/matt1016/)
 
 
 
